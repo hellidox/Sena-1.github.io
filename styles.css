@@ -44,7 +44,7 @@ body {
   background-color: #091a32;
 }
 /* Side navigation links */
-a {
+.sidenav a {
   color: white;
   border-radius: 1.5ch;
   font-size: 3.25ch;
@@ -54,6 +54,21 @@ a {
   display: block;
   margin: 0.5ch;
   box-shadow: inset 0 0 4ch #091a32;
+}
+a {
+  color: white;
+  border-radius: 1.5ch;
+  font-size: 3.25ch;
+  background-color: #1a355b;
+  padding: 3ch;
+  text-decoration: none;
+  margin: 0.5ch;
+  box-shadow: inset 0 0 4ch #091a32;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  vertical-align: middle;
+  display: inline-flex;
 }
 /* Change color on hover */
 a:hover {
