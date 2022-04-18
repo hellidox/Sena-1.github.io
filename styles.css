@@ -8,7 +8,7 @@ html {
   color: #ededed;
   text-align: center;
   max-width: 100%;
-  background-color: #091a32;
+  background-color: #7C4254;
 }
 h1 {
   font-weight: 400;
@@ -42,23 +42,23 @@ body {
   width: 25%;
   position: fixed;
   overflow-x: hidden;
-  background-color: #091a32;
+  background-color: #7C4254;
 }
 /* Side navigation links */
 a {
   color: white;
   border-radius: 1.5ch;
   font-size: 3.25ch;
-  background-color: #1a355b;
   padding: 3ch;
   text-decoration: none;
   display: block;
   margin: 0.5ch;
-  box-shadow: inset 0 0 4ch #091a32;
+  background-color: #824550;
+  box-shadow: inset 0 0 4ch #4F2939;
 }
 /* Change color on hover */
 a:hover {
-  background-color: #112746;
+  background-color: #A85967;
 }
 /* Style the content */
 .content {
@@ -67,7 +67,7 @@ a:hover {
   width: 75%;
   position: fixed;
   overflow-x: hidden;
-  background-color: #091a32;
+  background-color: #7C4254;
   margin-left: 25%;
   border-radius: 1.5ch;
   padding: 0 1ch;
